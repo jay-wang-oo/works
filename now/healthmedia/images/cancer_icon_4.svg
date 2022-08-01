@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.30383,0,0,1.30383,96.6716,52.6955)">
+        <g id="画板1">
+            <g>
+                <path d="M0,59.694L-26.255,50.792L-1.829,-21.257L24.426,-12.356L0,59.694ZM-21.388,80.865L-27.146,55.682L-1.73,64.298L-21.388,80.865ZM-4.818,-38.115C-42.354,-38.115 -72.781,-7.688 -72.781,29.847C-72.781,67.381 -42.354,97.809 -4.818,97.809C32.716,97.809 63.143,67.381 63.143,29.847C63.143,-7.688 32.716,-38.115 -4.818,-38.115" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

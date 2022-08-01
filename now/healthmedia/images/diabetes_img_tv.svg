@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 374 254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="圖層-6" serif:id="圖層 6" transform="matrix(1,0,0,1,-11,-14)">
+        <g transform="matrix(-1,0,0,1,400.668,211.714)">
+            <rect x="156.834" y="24.44" width="87" height="16.892" style="fill:rgb(30,30,30);"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,400.668,239.048)">
+            <rect x="121.834" y="10.773" width="157" height="16.892" style="fill:rgb(50,50,50);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,384,40.654)">
+            <path d="M0,176C0,189.807 -10.958,201 -24.473,201L-347.527,201C-361.043,201 -372,189.807 -372,176L-372,0C-372,-13.807 -361.043,-25 -347.527,-25L-24.473,-25C-10.958,-25 0,-13.807 0,0L0,176Z" style="fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>
